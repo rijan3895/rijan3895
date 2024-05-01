@@ -73,7 +73,7 @@ main().then(() => {
 ## FAQ
 
 ### Why you need transfer to 0.00005 ETH to Deploy address?
-Because Base blockchain cannot transfer track amount, 0.00005 TRX is the minimum transfer amount.
+Because Base blockchain cannot transfer track amount, 0.00005 ETH is the minimum transfer amount.
 
 
 
