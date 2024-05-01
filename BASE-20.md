@@ -9,9 +9,9 @@ Official Twitter:[BASED](https://twitter.com/@RIJAN_OnBase)
  - limit: 1000
 
 ## Method
- - deploy: `data:,{"p":"base-20","op":"deploy","tick":"trxi","max":"2100000000","lim":"1000"}`
- - mint: `data:,{"p":"base-20","op":"mint","tick":"trxi","amt":"1000"}`
- - transfer: `data:,{"p":"base-20","op":"transfer","tick":"base","detail":[{"to":"BASE Address","amt":"1000"}]}`
+ - deploy: `data:,{"p":"base-20","op":"deploy","tick":"based","max":"2100000000","lim":"1000"}`
+ - mint: `data:,{"p":"base-20","op":"mint","tick":"based","amt":"1000"}`
+ - transfer: `data:,{"p":"base-20","op":"transfer","based":"base","detail":[{"to":"BASE Address","amt":"1000"}]}`
 
 ## Deploy txid
 https://basescan.org/tx/0x524f5f5d39a2e4dbf85b63e2178a24c827df0fd09dcbaa2154aace90b1ba215d
